@@ -1,7 +1,7 @@
-cd /var/www/html/AAAA/ --> مسار ملف المشروع
-git add * --> اضافة ملف Git (مخفي)
+cd /var/www/html/AAAA/ 
+git add *
 git status 
 git commit -m "first commit" 
 git status 
-git remote add origin https://github.com/Di70i/My-Project.git --> اسمك ف الموقع/اسم مشروعك في الموقع
-git push -u origin master --> بعدها بطلب اسمك وكلمة السر في الموقع 
+git remote add origin https://github.com/Di70i/My-Project.git
+git push -u origin master
